@@ -196,14 +196,9 @@
 
     </div>
 
-    <div class="nav">
-        <img src="https://cdn-icons-png.flaticon.com/512/1946/1946436.png">
-        <img src="https://cdn-icons-png.flaticon.com/512/126/126472.png">
-        <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png">
-        <img src="https://cdn-icons-png.flaticon.com/512/929/929564.png">
-        <img src="https://cdn-icons-png.flaticon.com/512/545/545682.png">
-    </div>
-
+    <?php
+    include 'bottom-button.php';
+    ?>
 </body>
 
 </html>

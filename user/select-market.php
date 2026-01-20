@@ -135,27 +135,27 @@
 <body>
     <div class="main">
         <div class="header">
-            <img src="https://i.imgur.com/1R8ZQ1Y.png">
-            <h1>Equra World</h1>
+            <!-- <img src="https://i.imgur.com/1R8ZQ1Y.png"> -->
+            <h1>Binxtrade</h1>
             <p>Choose your trading universe</p>
         </div>
         <div class="cards">
-            <a href="crypto/home.php" style="text-decoration:none;color:white;">
+            <a href="crypto/index.php" style="text-decoration:none;color:white;">
                 <div class="card">
-                    <img src="https://i.imgur.com/BnQ9ZzY.png">
+                    <h1>₿</h1>
                     <h2>Crypto</h2>
                     <span>Digital currencies and blockchain assets</span>
                 </div>
             </a>
-            <a href="forex/home.php" style="text-decoration:none;color:white;">
+            <a href="forex/index.php" style="text-decoration:none;color:white;">
                 <div class="card">
-                    <img src="https://i.imgur.com/6uZ8FqT.png">
+                    <h1>💱</h1>
                     <h2>Forex</h2>
                     <span>Foreign exchange currency pairs</span>
                 </div>
             </a>
             <div class="card">
-                <img src="https://i.imgur.com/9s9KQpF.png">
+                    <h1>📈</h1>
                 <h2>Stocks</h2>
                 <span>Equity markets and securities</span>
                 <div class="badge">Coming Soon</div>

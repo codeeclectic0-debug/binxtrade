@@ -242,7 +242,7 @@
 
         <!-- HEADER -->
         <div class="topbar">
-            <div class="icon-btn">‹</div>
+            <div class="icon-btn back">‹</div>
             <h1>Withdrawal</h1>
             <div class="icon-btn">⟳</div>
         </div>

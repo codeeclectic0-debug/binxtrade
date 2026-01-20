@@ -29,6 +29,16 @@
             grid-template-columns: repeat(2, 1fr);
         }
     }
+
+    .back {
+        cursor: pointer;
+        font-size: 36px;
+        opacity: .8;
+    }
+
+    .back:hover {
+        opacity: 1;
+    }
 </style>
 <div class="bottom-nav">
     <?php
@@ -43,6 +53,14 @@
     <a href="promotion.php" class="nav-item <?php echo $active; ?>">💎</a>
     <?php $active = ($currentPage === 'offers') ? 'active' : ''; ?>
     <a href="offers.php" class="nav-item <?php echo $active; ?>">🏷️</a>
-    <?php $active = ($currentPage === 'wallet') ? 'active' : ''; ?> 
+    <?php $active = ($currentPage === 'wallet') ? 'active' : ''; ?>
     <a href="wallet.php" class="nav-item <?php echo $active; ?>">👛</a>
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll(".back").forEach(btn => {
+            btn.addEventListener("click", () => history.back());
+        });
+    });
+</script>

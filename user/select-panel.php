@@ -128,8 +128,8 @@
       justify-content: center;
     }
 
-    .icon img {
-      width: 34px;
+    .icon h1 {
+      width: 100%;
     }
 
     /* Card text */
@@ -192,12 +192,12 @@
     <!-- Logo -->
     <div class="logo">
       <!-- Replace with your actual logo -->
-      <img src="https://dummyimage.com/100x100/00cfff/ffffff&text=E" alt="Equra Logo" />
-      <div class="brand">E Q U R A<br><small>TRADE THE FUTURE</small></div>
+      <!-- <img src="https://dummyimage.com/100x100/00cfff/ffffff&text=B" alt="Binxtrade Logo" /> -->
+      <div class="brand">B I N X T R A D E<br><small>TRADE THE FUTURE</small></div>
     </div>
 
     <!-- Title -->
-    <h1>Equra World</h1>
+    <h1>Binxtrade</h1>
     <div class="subtitle">Choose your investment path</div>
 
     <!-- Cards -->
@@ -205,8 +205,8 @@
       <!-- Trading -->
       <a href="select-market.php" style="text-decoration:none;color:white;">
         <div class="card">
-          <div class="icon">
-            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" alt="Trading" />
+          <div class="">
+            <h1>📈</h1>
           </div>
           <h2>Trading</h2>
           <p>Crypto, Forex, and more</p>
@@ -215,8 +215,8 @@
 
       <!-- Fixed Deposit -->
       <div class="card disabled">
-        <div class="icon">
-          <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" alt="Fixed Deposit" />
+        <div class="">
+          <h1>🏦</h1>
         </div>
         <h2>Fixed Deposit</h2>
         <p>Secure, low-risk returns</p>

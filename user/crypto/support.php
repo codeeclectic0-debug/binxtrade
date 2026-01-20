@@ -240,6 +240,10 @@
             </div>
         </div>
 
+        <?php
+        include 'bottom-button.php';
+        ?>
+
     </div>
 </body>
 

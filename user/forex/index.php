@@ -229,7 +229,7 @@ $trending = [
         <div class="header">
             <div class="logo">
                 <div>⚡</div>
-                <div>E QURA</div>
+                <div>Binxtrade</div>
             </div>
             <div class="profile-icon">👤</div>
         </div>

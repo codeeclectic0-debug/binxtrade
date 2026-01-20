@@ -117,7 +117,7 @@
     <button class="login-btn" onclick="login()">Login</button>
 
     <div class="footer-text">
-        © 2026 Your App Name
+        © 2026 Binxtrade
     </div>
 </div>
 

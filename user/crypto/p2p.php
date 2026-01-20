@@ -192,7 +192,7 @@
 
         <!-- HEADER -->
         <div class="topbar">
-            <div class="icon-btn">‹</div>
+            <div class="icon-btn back">‹</div>
             <h1>P2P Transfer</h1>
             <div class="icon-btn">⟳</div>
         </div>
